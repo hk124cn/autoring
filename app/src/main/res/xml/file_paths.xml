@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 在线升级下载的 APK 放在私有缓存目录，供系统安装器通过 FileProvider 读取 -->
+    <cache-path name="update" path="update/" />
+</paths>
